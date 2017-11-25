@@ -11,4 +11,7 @@ captcha
   - data processing
   - softmax regression 
   - cnn (accurary:0.90)
-  
+
+
+
+[blog](http://blog.csdn.net/ravi_jay/article/details/78632455)
